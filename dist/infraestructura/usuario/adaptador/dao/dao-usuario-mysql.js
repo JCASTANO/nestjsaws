@@ -21,7 +21,7 @@ let DaoUsuarioMysql = class DaoUsuarioMysql {
         this.entityManager = entityManager;
     }
     async listar() {
-        return await this.entityManager.query('SELECT u.nombre, u.clave FROM USUARIO u');
+        return await this.entityManager.query('SELECT u.nombre, u.clave FROM usuario u');
     }
 };
 DaoUsuarioMysql = __decorate([

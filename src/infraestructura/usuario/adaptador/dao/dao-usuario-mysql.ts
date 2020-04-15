@@ -11,7 +11,7 @@ export class DaoUsuarioMysql implements DaoUsuario {
 
   async listar(): Promise<UsuarioDTO[]> {
     return await this.entityManager.query(
-      'SELECT u.nombre, u.clave FROM USUARIO u',
+      'SELECT u.nombre, u.clave FROM usuario u',
     );
   }
 }
