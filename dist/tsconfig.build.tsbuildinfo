@@ -1106,7 +1106,7 @@
         "signature": "abec56db8d9e8c0be53354ab0f3e6bc5a888ea005f32e43f9893ae1e49360db7"
       },
       "../src/app.controller.ts": {
-        "version": "3e62528e823ec9951f616e2e50fc2a1ac85ec34877bb4aaa940ba90ba1be481a",
+        "version": "c8ffc4e261d2e6c412a2fc062ef09d946adb541d921f80527abf69f614ce4ad7",
         "signature": "35a9ea452244074cfb32903b496304c21c5a626f0b335f5486b9182cf22b8b48"
       },
       "../src/dominio/excepciones/error-de-negocio.ts": {

@@ -5,6 +5,6 @@ export class AppController {
 
   @Get()
   getHello(): string {
-    return 'Hello world from aws 2';
+    return 'Hello world from aws 3';
   }
 }

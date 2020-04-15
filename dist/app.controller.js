@@ -13,7 +13,7 @@ const openapi = require("@nestjs/swagger");
 const common_1 = require("@nestjs/common");
 let AppController = class AppController {
     getHello() {
-        return 'Hello world from aws 2';
+        return 'Hello world from aws 3';
     }
 };
 __decorate([
