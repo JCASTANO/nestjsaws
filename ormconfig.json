@@ -1,9 +1,9 @@
 {
     "type": "mysql",
-    "host": "localhost",
+    "host": "mybd.c18vbqdu2vhm.us-east-2.rds.amazonaws.com",
     "port": 3306,
     "username": "root",
-    "password": "root",
+    "password": "root123*",
     "database": "mybd",
     "entities": ["dist/**/*.entidad{.ts,.js}"],
     "migrationsTableName": "migration_history",
